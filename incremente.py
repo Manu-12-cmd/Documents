@@ -4,4 +4,8 @@ a+=1
 
 print(a)
 
-print(a**2, 'tamer')
+print(a**2)
+
+J = []
+
+b = 32*5+1
