@@ -4,4 +4,4 @@ a+=1
 
 print(a)
 
-print(a**2, 'tamer')
+print(a**2, 'le chef est un con')
