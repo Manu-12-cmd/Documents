@@ -2,7 +2,7 @@
 
 Pluviomètre du Grand Lyon
 
-Groupe C 
+Groupe C - Humeau Aiki
 
 ## Getting started
 
