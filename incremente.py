@@ -1,11 +1,4 @@
-a=0
+def function(a):
+    return a**3 - a**2 + 1
 
-a+=1
-
-print(a)
-
-print(a**2)
-
-J = []
-
-b=2
+print(f(10))
